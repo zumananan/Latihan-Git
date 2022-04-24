@@ -3,3 +3,4 @@ def tes(name):
 
 tes(anan)
 tes(ananta)
+tes(akuu)
